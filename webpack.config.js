@@ -14,9 +14,7 @@ module.exports = {
   resolve: {
     extensions: ['.js', '.ts', '.json'],
   },
-
   mode: 'development',
-
   module: {
     rules: [
       {
@@ -43,9 +41,7 @@ module.exports = {
       'process.env.DEBUG': JSON.stringify(process.env.DEBUG),
     }),
   ],
-
   watch: true,
-
   devServer: {
     historyApiFallback: true,
     contentBase: './',
