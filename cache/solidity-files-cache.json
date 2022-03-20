@@ -37,8 +37,8 @@
       ]
     },
     "/Users/daniel/Desenvolvimento/jpegdegens/contracts/Counter.sol": {
-      "lastModificationDate": 1646920542837,
-      "contentHash": "0d63d3634f536b8a82c2f78c6f75437e",
+      "lastModificationDate": 1647781779788,
+      "contentHash": "beae5066f025aa4efc6be037eec199e8",
       "sourceName": "contracts/Counter.sol",
       "solcConfig": {
         "version": "0.8.10",
