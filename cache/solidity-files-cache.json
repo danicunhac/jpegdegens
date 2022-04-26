@@ -107,6 +107,41 @@
       "artifacts": [
         "console"
       ]
+    },
+    "/Users/daniel/Desenvolvimento/jpegdegens/contracts/Hero.sol": {
+      "lastModificationDate": 1651005445144,
+      "contentHash": "91bb1e28dd6f3493a52669da92ba6fc3",
+      "sourceName": "contracts/Hero.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Hero"
+      ]
     }
   }
 }
